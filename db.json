@@ -1,0 +1,24 @@
+
+{
+  "transactions": [
+    {
+      "customer-name": "Ketan",
+      "transfer-amount": "5000",
+      "transfer-currency" : INR,
+      "reference" : CUS201904059
+    },
+     {
+      "customer-name": "Rahul",
+      "transfer-amount": "9000",
+      "transfer-currency" : INR,
+      "reference" : CUS201904057
+    },
+     {
+      "customer-name": "Rajesh",
+      "transfer-amount": "6000",
+      "transfer-currency" : INR,
+      "reference" : CUS201904054
+    }
+  ],
+ 
+}
